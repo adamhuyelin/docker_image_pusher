@@ -5,4 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/library/mongo:5.0
-docker.io/library/redis:7.2.12-bookworm
+#docker.io/library/redis:7.2.12-bookworm
+docker.io/gitlab/gitlab-ce:latest
+
